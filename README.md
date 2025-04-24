@@ -1,2 +1,1 @@
-# vatario-python-sdk
-python SDK to connect avatario services by python based agents
+SDK to be used along with agents that run on python
