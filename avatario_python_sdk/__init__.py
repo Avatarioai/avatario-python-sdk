@@ -1,7 +1,7 @@
 """
-OneZot Python SDK
+Avatario Python SDK
 
-A Python SDK for interacting with the OneZot service.
+A Python SDK for interacting with the Avatario service.
 """
 
 from .client import Avatario
