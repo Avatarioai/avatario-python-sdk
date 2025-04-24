@@ -56,7 +56,7 @@ class Avatario:
         """
         Asynchronous implementation of initialize method.
         Invoks a lambda function that returns the url and token for a participant
-        to join the livekit room that is running the whole OneZot backend
+        to join the livekit room that is running the whole Avatario backend
 
         """
         global AVATARIO_BASE_URL
